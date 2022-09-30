@@ -49,7 +49,7 @@ More dependent on Linear Algebra (Vectors, Matrices)
         
         判断左/右（a x b得正，则b在a左边(逆时针)）、内/外 (ABxAP, BCxBP, CAxCP 三者同号)
         
-        ![Untitled](Lesson%2002%20Review%20of%20Linear%20Algebra%20c5b156852722494396aa12b41aafd3f3/Untitled.png)
+        ![Untitled](https://github.com/FancyHorrse/GAMES101-Overview_of_CG/blob/main/assets/ImageforNotes/Lesson%2002%20Review%20of%20Linear%20Algebra%20c5b156852722494396aa12b41aafd3f3/Untitled.png)
         
     - Orthonormal bases and coordinate frames
 
