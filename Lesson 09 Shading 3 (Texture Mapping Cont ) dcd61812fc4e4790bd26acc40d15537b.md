@@ -93,7 +93,7 @@ A pixel on a texture — a texel (纹理元素、纹素)
 
 ![Untitled](Lesson%2009%20Shading%203%20(Texture%20Mapping%20Cont%20)%20dcd61812fc4e4790bd26acc40d15537b/Untitled%203.png)
 
-很多pixel被映射到同一个texel上——纹理太小
+很多pixel被映射到同一个texel上——纹理太小（即纹素太少）
 
 (1) Nearest（取最近值，如四舍五入）
 
